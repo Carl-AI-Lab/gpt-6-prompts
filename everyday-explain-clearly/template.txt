@@ -1,0 +1,13 @@
+Task
+Create an accurate explanation for a specified reader.
+
+Instructions
+Explain [IDEA] to [AUDIENCE] who already knows [PRIOR KNOWLEDGE]. Start with a one-sentence answer, then use one concrete example and one boundary case. Define necessary terms. Mark uncertainty and avoid a claim stronger than the evidence.
+
+Expected output
+Answer, example, boundary case, and a short “what this does not mean” section.
+
+Checks
+- The audience is respected.
+- Every technical term is defined.
+- Limits are explicit.

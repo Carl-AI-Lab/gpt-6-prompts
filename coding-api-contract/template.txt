@@ -1,0 +1,13 @@
+Task
+Specify an API boundary that clients can implement and test.
+
+Instructions
+Draft a contract for [ENDPOINT] serving [CLIENTS]. Include request, response, errors, authentication assumptions, idempotency, pagination, limits, compatibility, and examples. Mark every decision that still requires product or security approval. Avoid inventing provider behavior.
+
+Expected output
+Contract table, examples, error semantics, and unresolved decisions.
+
+Checks
+- Success and failure shapes are complete.
+- Security assumptions are stated.
+- Open decisions are tagged.

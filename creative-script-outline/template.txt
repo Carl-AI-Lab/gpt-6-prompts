@@ -1,0 +1,13 @@
+Task
+Turn an idea into a paced short-form script.
+
+Instructions
+Outline a [DURATION] script about [IDEA] for [AUDIENCE]. Include hook, setup, escalation, turn, ending, visual or audio cues, and a single call to action. Keep the voice [VOICE]. Offer two alternate openings and explain the tradeoff in each.
+
+Expected output
+Beat sheet, draft script, alternate openings, and production notes.
+
+Checks
+- Timing is plausible.
+- The turn follows from setup.
+- The CTA is singular and clear.

@@ -1,0 +1,21 @@
+Task
+Review a diff for correctness, regressions, and missing verification.
+
+Instructions
+Review this diff for Small fictional ticket-pricing utility; cents integer,discount percentage0–100,input arrays must remain unchanged.: Synthetic TypeScript repository. Prices are whole cents, percent is 0–100, and callers retain ownership of the original array.
+File src/tickets.ts, NEW line numbers shown:
+1 export function discountedCents(cents: number, percent: number) {
+2   return Math.round(cents * (1 - percent));
+3 }
+4 export function cheapestFirst(items: { cents: number }[]) {
+5   return items.sort((a, b) => a.cents - b.cents);
+6 }
+Both functions are newly added. Review correctness, not formatting.. Prioritize user impact, correctness, security, data loss, compatibility, and test gaps. Cite file and line. Do not praise style unless it affects behavior. If behavior cannot be established from the diff, state what must be checked.
+
+Expected output
+Findings ordered by severity, questions, and a focused verification plan.
+
+Checks
+- Findings are actionable.
+- Severity reflects impact and likelihood.
+- Unknown behavior is not asserted.

@@ -1,0 +1,13 @@
+Task
+Make a repeatable checklist from a narrative procedure.
+
+Instructions
+Convert [PROCESS DESCRIPTION] into a checklist for [ROLE]. Include prerequisites, ordered steps, decision points, evidence to retain, and a stop condition. Separate required controls from helpful suggestions. Do not fill gaps with assumptions.
+
+Expected output
+A numbered checklist, decision tree in prose, and evidence record fields.
+
+Checks
+- Prerequisites come first.
+- Stop conditions are visible.
+- Each control has evidence.

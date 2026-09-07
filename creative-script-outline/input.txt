@@ -1,0 +1,13 @@
+Task
+Turn an idea into a paced short-form script.
+
+Instructions
+Outline a 45-second script about fictional Paper Lantern workshop on19September2026,14:00–16:00,capacity24,free participation; singleCTA:visit example.org/workshop to register. This is a synthetic, non-operational link. for adult first-time volunteers. Include hook, setup, escalation, turn, ending, visual or audio cues, and a single call to action. Keep the voice warm,concrete,non-hype. Offer two alternate openings and explain the tradeoff in each.
+
+Expected output
+Beat sheet, draft script, alternate openings, and production notes.
+
+Checks
+- Timing is plausible.
+- The turn follows from setup.
+- The CTA is singular and clear.

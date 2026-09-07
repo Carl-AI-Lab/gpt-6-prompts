@@ -1,0 +1,13 @@
+Task
+Revise creative work while preserving its intended voice.
+
+Instructions
+Edit Paper Lantern starts with a simple idea: make a useful thing together. Our workshop is on19September2026,from14:00to16:00. We have24 places. Bring your curiosity, not expensive equipment. Thousands of delighted people have already attended, and everyone leaves transformed. We have no attendance records supporting that sentence. Volunteers will arrange tables, welcome participants and share the materials we already have. The room booking is still pending. We want the note to sound friendly, practical and a little playful. A participant should understand the date, time and what to do next without reading a sales pitch. The draft currently repeats the invitation: register at example.org/workshop, tell a friend, and sign up today. The website is a fictional placeholder in this training example, and no messages should be sent. against this brief: Produce120–160words. Preserve exactly: Bring your curiosity, not expensive equipment. Keep date19September2026,time14:00–16:00,capacity24. Remove unsupported attendance/guarantee claims. OneCTA. Conflicting instructions: say venue is confirmed, but also never add facts beyond draft. Flag this conflict rather than claiming a confirmed venue.. Return a clean revision and a change log grouped by clarity, rhythm, audience fit, factual risk, and voice. Keep lines that already work. Flag brief conflicts instead of silently choosing one interpretation.
+
+Expected output
+Revised draft, concise change log, and questions for the owner.
+
+Checks
+- Voice remains recognizable.
+- Changes map to the brief.
+- Factual risks are called out.

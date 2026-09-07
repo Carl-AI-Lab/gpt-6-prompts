@@ -1,0 +1,13 @@
+Task
+Explore distinct creative directions under a clear brief.
+
+Instructions
+Develop [NUMBER] distinct concepts for [PROJECT] aimed at [AUDIENCE]. Constraints: [CONSTRAINTS]. For each, give premise, emotional effect, visual or structural device, risk, and a small first test. Avoid near duplicates and avoid claiming that an untested concept will perform.
+
+Expected output
+Concept cards followed by a recommendation for the next test.
+
+Checks
+- Concepts differ in mechanism.
+- Constraints are honored.
+- Performance claims are hypotheses.

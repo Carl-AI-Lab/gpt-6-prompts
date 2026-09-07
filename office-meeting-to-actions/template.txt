@@ -1,0 +1,13 @@
+Task
+Convert messy meeting notes into accountable follow-up.
+
+Instructions
+Process these meeting notes: [NOTES]. Extract decisions, open questions, action items, owner, due date, and dependencies. Preserve uncertainty when the notes do not assign an owner or date. Quote a short source phrase for each decision.
+
+Expected output
+Decisions, action table, unresolved questions, and a follow-up message draft.
+
+Checks
+- No owner is invented.
+- Dates are copied or marked unknown.
+- Decisions are traceable to notes.

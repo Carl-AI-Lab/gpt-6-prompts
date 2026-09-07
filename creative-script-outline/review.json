@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.964595+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "The beat sheet totals 45 seconds, contains one registration destination and two replacement openings. Date, time, free entry and 24 places are preserved.",
+    "The roughly 100-word read is a timing estimate; no voice recording or measured delivery is claimed."
+  ],
+  "revisions": [
+    "No correction needed for the stated script brief. A read-through is still needed to set final pacing."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}

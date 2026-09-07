@@ -1,0 +1,13 @@
+Task
+Turn competing commitments into a humane weekly plan.
+
+Instructions
+Plan my week from Synthetic week14–20 September2026. Flexible: budget review90min, write workshop handout120min, collect supplies60min. One instance each. Sleep23:00–07:00 daily; lunch12:00–13:00; dinner18:00–19:00; work tasks only09:00–17:00. Sunday afternoon availability is unknown., Monday09:00–10:00 team meeting; Wednesday14:00–15:00 hall visit with30min travel before and after; Saturday14:00–16:00 workshop with30min setup before and30min cleanup after. No other commitments., Best focused work Tuesday and Thursday mornings. Add15min transition buffers around work blocks., and Finish the workshop handout before Friday17:00.. Separate fixed events from flexible work. Protect meals, sleep, and transition time. Offer a first draft, then list the two tradeoffs that matter most. Do not invent availability.
+
+Expected output
+A day-by-day table, assumptions, and two questions before any schedule is treated as final.
+
+Checks
+- All fixed events appear once.
+- The plan contains buffers.
+- Unknown availability is labeled.

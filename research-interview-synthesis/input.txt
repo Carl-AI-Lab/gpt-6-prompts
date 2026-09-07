@@ -1,0 +1,13 @@
+Task
+Find patterns in interview notes without turning anecdotes into statistics.
+
+Instructions
+Synthesize these interviews: Synthetic interviews. I01: I cannot attend mornings; evening works. I02: Morning is best; evenings conflict with childcare. I03: Evening works, but buses are infrequent. I04: Morning works; I need wheelchair access. I05: Evening is best; I also need wheelchair access. I06: Either time works; free admission matters more.. Group observations by job, pain, workaround, desired outcome, and contradiction. Include representative paraphrases with interview IDs. Count only the supplied interviews and label the sample as directional, not representative.
+
+Expected output
+Theme table, counterexamples, opportunity hypotheses, and follow-up questions.
+
+Checks
+- Interview IDs are retained.
+- No prevalence claim exceeds the sample.
+- Counterevidence is included.

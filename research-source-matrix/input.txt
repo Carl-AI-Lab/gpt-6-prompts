@@ -1,0 +1,16 @@
+Task
+Organize research claims and the sources that support them.
+
+Instructions
+Build a source matrix for When did registration open, who can attend, and is evening demand established?. Use only the supplied sources: All sources below are explicitly fictional training materials, not claims about real organizations.
+S1 simulated project announcement,2026-09-01: Paper Lantern registration opens12 September. The workshop accommodates24 people. Availability outside the local community has not been decided.
+S2 organizer field observation,2026-09-03: I saw the registration form accepting a submission on11 September. I did not check whether this was a rehearsal.
+S3 participant interview,2026-09-04: I prefer an evening session; one friend also asked about evening availability. I do not know the actual timetable.. For each claim, record source, publication date, exact supporting passage in your own words, confidence, contradictions, and what remains unknown. Distinguish official fact, reported observation, inference, and anecdote.
+
+Expected output
+Claim matrix followed by a short evidence-bounded answer.
+
+Checks
+- Every claim has a source or is labeled inference.
+- Dates are recorded.
+- Conflicts are not silently resolved.

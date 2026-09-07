@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.964453+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "Three mechanisms differ: choose a role, leave a question, pass a detachable invitation. Each has a premise, device, risk and small comprehension test.",
+    "Date/capacity and free noticeboard/original-art constraints are retained. Roles and reaction effects are identified as proposals or hypotheses."
+  ],
+  "revisions": [
+    "No factual correction; these concepts have not been audience-tested."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}

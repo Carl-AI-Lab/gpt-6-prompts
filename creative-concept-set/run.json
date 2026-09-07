@@ -1,0 +1,12 @@
+{
+  "id": "P13",
+  "product": "Codex",
+  "model": "gpt-6-astra",
+  "effort": "medium",
+  "date": "2026-09-07",
+  "start": "2026-09-07T08:29:00Z",
+  "end": "2026-09-07T08:30:50.686245Z",
+  "inputSha256": "09bd6f36f284b5a8d265df9fcb83a123151147f53b742458e0ce57174c910bcf",
+  "firstOutputSha256": "ff76b597ab3735f746a63b4d88d08ceb98dbc449038dda90ef27ac559ba007fe",
+  "note": "Single recorded Codex run with synthetic material except the current official-source comparison. No paid API or ChatGPT-interface measurement."
+}

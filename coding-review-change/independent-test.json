@@ -1,0 +1,10 @@
+{
+  "ranAt": "2026-09-07T08:34:04.095Z",
+  "seededDefects": 2,
+  "reproduced": [
+    "Percentage result -19000 instead of 800",
+    "Caller order mutated from Bo,Ada to Ada,Bo"
+  ],
+  "afterFix": "all discount boundaries and immutable sorting assertions passed",
+  "passed": true
+}

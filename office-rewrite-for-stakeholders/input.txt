@@ -1,0 +1,13 @@
+Task
+Adapt one update for different readers while retaining facts.
+
+Instructions
+Rewrite Synthetic update: Workshop date 19 September 2026; session 14:00–16:00; capacity24; allocated budget$180; volunteers needed4; registration page due10 September. The hall booking and projector availability are not confirmed. Ada owns the page. Do not promise admission or a confirmed venue. for project sponsor,volunteers,participants. Keep factual content stable. For each audience, lead with the decision or impact, then risks, required action, and timing. Keep unknowns visible and flag any sentence that needs confirmation.
+
+Expected output
+One version per audience plus a shared fact ledger.
+
+Checks
+- Facts do not drift between versions.
+- Audience specific actions are clear.
+- Claims requiring a source are identified.

@@ -1,0 +1,13 @@
+Task
+Revise creative work while preserving its intended voice.
+
+Instructions
+Edit [DRAFT] against this brief: [BRIEF]. Return a clean revision and a change log grouped by clarity, rhythm, audience fit, factual risk, and voice. Keep lines that already work. Flag brief conflicts instead of silently choosing one interpretation.
+
+Expected output
+Revised draft, concise change log, and questions for the owner.
+
+Checks
+- Voice remains recognizable.
+- Changes map to the brief.
+- Factual risks are called out.

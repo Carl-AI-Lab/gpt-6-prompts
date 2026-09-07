@@ -1,0 +1,13 @@
+Task
+Compare a small set of personal options without false precision.
+
+Instructions
+Help me decide between [OPTIONS] for [GOAL]. Use these criteria and weights: [CRITERIA]. Ask only for missing information that could change the ranking. Show evidence, assumptions, downside, and a reversible next step. Do not present a score as an objective truth.
+
+Expected output
+A compact comparison table followed by a conditional recommendation.
+
+Checks
+- Weights are visible.
+- Evidence and inference are separated.
+- The next step is reversible.

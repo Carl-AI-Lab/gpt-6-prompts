@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.962596+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "All three rewrites preserve September 19, 14:00\u201316:00, capacity 24, budget $180, four volunteers, Ada and the September 10 page deadline.",
+    "Each version retains the unconfirmed hall and projector. Audience actions are explicitly proposals, not invented assignments."
+  ],
+  "revisions": [
+    "No factual correction. A public announcement could be shortened once the venue and response channel are known."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}

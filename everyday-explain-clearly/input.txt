@@ -1,0 +1,13 @@
+Task
+Create an accurate explanation for a specified reader.
+
+Instructions
+Explain weighted averages: groupA has10 people with mean score4, groupB has30 people with mean score8. All numbers are fictional. to adult community volunteers who already knows ordinary arithmetic mean but not weighted mean. Start with a one-sentence answer, then use one concrete example and one boundary case. Define necessary terms. Mark uncertainty and avoid a claim stronger than the evidence.
+
+Expected output
+Answer, example, boundary case, and a short “what this does not mean” section.
+
+Checks
+- The audience is respected.
+- Every technical term is defined.
+- Limits are explicit.

@@ -1,0 +1,13 @@
+Task
+Turn a bug report into a minimal diagnostic plan.
+
+Instructions
+Diagnose [BUG REPORT] in [STACK]. First restate the observable symptom and expected behavior. List competing hypotheses, the cheapest discriminating check for each, required logs, and a minimal reproduction. Do not implement a fix until the failing behavior is isolated.
+
+Expected output
+Symptom, hypotheses, ordered checks, reproduction, and evidence needed.
+
+Checks
+- Expected behavior is explicit.
+- Checks distinguish hypotheses.
+- No fix is claimed without evidence.

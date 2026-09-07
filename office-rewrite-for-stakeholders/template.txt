@@ -1,0 +1,13 @@
+Task
+Adapt one update for different readers while retaining facts.
+
+Instructions
+Rewrite [UPDATE] for [STAKEHOLDER TYPES]. Keep factual content stable. For each audience, lead with the decision or impact, then risks, required action, and timing. Keep unknowns visible and flag any sentence that needs confirmation.
+
+Expected output
+One version per audience plus a shared fact ledger.
+
+Checks
+- Facts do not drift between versions.
+- Audience specific actions are clear.
+- Claims requiring a source are identified.

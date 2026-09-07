@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.963605+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "The exact minimal reproduction was executed. It logs Bo,Ada before sorting and Ada,Bo afterward, then throws the intended signup-order assertion.",
+    "The response distinguishes that demonstration from proof about the unavailable real helper and gives several discriminating hypotheses."
+  ],
+  "revisions": [
+    "No model response edited. The execution log confirms the reproduction fails in the expected way; no production helper fix is claimed."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}

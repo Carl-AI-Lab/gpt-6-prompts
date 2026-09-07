@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.961943+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "Recalculation: A scores 8.6; B ranges from 5.4 to 8.4; C fails the 24-person capacity minimum.",
+    "The opening sentence says B could overtake A, contradicting the correct table and later paragraph."
+  ],
+  "revisions": [
+    "Editor corrected the opening sentence and removed its obsolete self-correction. The first response remains available."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": true
+}

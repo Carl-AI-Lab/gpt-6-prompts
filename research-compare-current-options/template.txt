@@ -1,0 +1,13 @@
+Task
+Produce a current, source linked comparison for a purchase or policy choice.
+
+Instructions
+Compare [OPTIONS] for [USE CASE] using current primary sources where available. Record price date, eligibility, limits, region, and important exclusions. Keep observed facts separate from your recommendation. If a page is dynamic or inaccessible, identify the missing field and the source needed to complete it.
+
+Expected output
+Comparison table, evidence notes, unknowns, and a conditional recommendation.
+
+Checks
+- Region and date are explicit.
+- Price is not treated as permanent.
+- Missing comparison fields are identified.

@@ -1,0 +1,28 @@
+{
+  "parsedBlocks": 3,
+  "passed": true,
+  "objects": [
+    {
+      "events": [
+        {
+          "id": "evt_001",
+          "title": "Paper Lantern",
+          "startAt": "2026-09-19T14:00:00Z",
+          "capacity": 24
+        }
+      ],
+      "nextCursor": "opaque-demo-token"
+    },
+    {
+      "events": [],
+      "nextCursor": null
+    },
+    {
+      "error": {
+        "code": "INVALID_LIMIT",
+        "message": "limit must be an integer from 1 through 50",
+        "field": "limit"
+      }
+    }
+  ]
+}

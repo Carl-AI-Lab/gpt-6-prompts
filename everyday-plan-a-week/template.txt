@@ -1,0 +1,13 @@
+Task
+Turn competing commitments into a humane weekly plan.
+
+Instructions
+Plan my week from [COMMITMENTS], [FIXED EVENTS], [ENERGY PATTERN], and [ONE PRIORITY]. Separate fixed events from flexible work. Protect meals, sleep, and transition time. Offer a first draft, then list the two tradeoffs that matter most. Do not invent availability.
+
+Expected output
+A day-by-day table, assumptions, and two questions before any schedule is treated as final.
+
+Checks
+- All fixed events appear once.
+- The plan contains buffers.
+- Unknown availability is labeled.

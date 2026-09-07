@@ -1,0 +1,25 @@
+Task
+Convert messy meeting notes into accountable follow-up.
+
+Instructions
+Process these meeting notes: Synthetic Paper Lantern project meeting, 7 September 2026.
+N01 Ada: We decide to hold the volunteer workshop on 19 September, 14:00–16:00.
+N02 Bo: I will reserve the community hall by 9 September.
+N03 Chen: We decide to cap registration at 24 people.
+N04 Ada: I will publish the registration page by 10 September, after Bo confirms the hall.
+N05 Bo: We could buy paid social ads. Ada: This is only a proposal; no approval today.
+N06 Chen: I will count the existing supplies by 8 September.
+N07 Ada: Someone needs to check accessibility by 11 September; no owner assigned yet.
+N08 Bo: I will send the volunteer reminder; we have not set the deadline.
+N09 Chen: We decide to reuse existing supplies before buying replacements.
+N10 Ada: We have not confirmed whether the hall has a working projector.
+N11 Bo: The hall booking must happen before the registration page is published.
+N12 Chen: We will discuss the ad proposal at the next meeting; it is not a decision. Entire input is fictional. No messages should actually be sent.. Extract decisions, open questions, action items, owner, due date, and dependencies. Preserve uncertainty when the notes do not assign an owner or date. Quote a short source phrase for each decision.
+
+Expected output
+Decisions, action table, unresolved questions, and a follow-up message draft.
+
+Checks
+- No owner is invented.
+- Dates are copied or marked unknown.
+- Decisions are traceable to notes.

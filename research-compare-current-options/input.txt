@@ -1,0 +1,13 @@
+Task
+Produce a current, source linked comparison for a purchase or policy choice.
+
+Instructions
+Compare Visual Studio Code and Zed for A community organizer editing Markdown on macOS and Windows with no mandatory paid AI subscription. Read current primary sources at https://code.visualstudio.com/docs/supporting/faq, https://code.visualstudio.com/docs/setup/setup-overview, https://zed.dev/docs, and https://zed.dev/pricing. Cite exact pages and access date. Compare core editor access separately from optional hosted AI; do not purchase anything. using current primary sources where available. Record price date, eligibility, limits, region, and important exclusions. Keep observed facts separate from your recommendation. If a page is dynamic or inaccessible, identify the missing field and the source needed to complete it.
+
+Expected output
+Comparison table, evidence notes, unknowns, and a conditional recommendation.
+
+Checks
+- Region and date are explicit.
+- Price is not treated as permanent.
+- Missing comparison fields are identified.

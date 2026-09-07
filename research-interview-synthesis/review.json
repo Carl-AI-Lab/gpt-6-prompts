@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.963048+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "Source counts independently match: evening 3/6, morning 2/6, either 1/6; wheelchair access 2/6 and bus difficulty 1/6.",
+    "I02 is retained as a counterexample to an evening-only choice, and overlapping themes are not summed as separate people."
+  ],
+  "revisions": [
+    "No correction needed for the supplied six interviews."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}

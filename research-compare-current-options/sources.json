@@ -1,0 +1,49 @@
+{
+  "access_date_utc": "2026-09-07",
+  "method": "web.run open/click/find against current official primary pages",
+  "region": "User country unspecified; public English pages; no localized checkout verified",
+  "sources": [
+    {
+      "url": "https://code.visualstudio.com/docs/supporting/faq",
+      "access_date": "2026-09-07",
+      "status": "inaccessible: two fetch timeouts"
+    },
+    {
+      "url": "https://code.visualstudio.com/docs/setup/setup-overview",
+      "access_date": "2026-09-07",
+      "status": "read; redirected",
+      "resolved_url": "https://code.visualstudio.com/docs/getstarted/overview"
+    },
+    {
+      "url": "https://zed.dev/docs",
+      "access_date": "2026-09-07",
+      "status": "read; redirected",
+      "resolved_url": "https://zed.dev/docs/"
+    },
+    {
+      "url": "https://zed.dev/pricing",
+      "access_date": "2026-09-07",
+      "status": "read"
+    },
+    {
+      "url": "https://zed.dev/docs/windows",
+      "access_date": "2026-09-07",
+      "status": "read"
+    },
+    {
+      "url": "https://zed.dev/docs/macos",
+      "access_date": "2026-09-07",
+      "status": "read"
+    },
+    {
+      "url": "https://zed.dev/docs/languages/markdown",
+      "access_date": "2026-09-07",
+      "status": "read"
+    },
+    {
+      "url": "https://code.visualstudio.com/docs/languages/markdown",
+      "access_date": "2026-09-07",
+      "status": "read"
+    }
+  ]
+}

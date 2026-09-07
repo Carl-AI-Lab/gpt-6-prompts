@@ -1,0 +1,13 @@
+Task
+Turn a bug report into a minimal diagnostic plan.
+
+Instructions
+Diagnose Synthetic reproduction: const original=[{name:"Bo",cents:900},{name:"Ada",cents:400}]; the UI should show signup orderBo,Ada even after another view requests prices sorted ascending. After sorting, original.map(x=>x.name) is Ada,Bo. This happens without a reload. Do not fix yet. in TypeScript browser app; module with a sorting helper, shared array, and two view components. Source implementation is not supplied.. First restate the observable symptom and expected behavior. List competing hypotheses, the cheapest discriminating check for each, required logs, and a minimal reproduction. Do not implement a fix until the failing behavior is isolated.
+
+Expected output
+Symptom, hypotheses, ordered checks, reproduction, and evidence needed.
+
+Checks
+- Expected behavior is explicit.
+- Checks distinguish hypotheses.
+- No fix is claimed without evidence.

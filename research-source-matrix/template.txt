@@ -1,0 +1,13 @@
+Task
+Organize research claims and the sources that support them.
+
+Instructions
+Build a source matrix for [QUESTION]. Use only the supplied sources: [SOURCES]. For each claim, record source, publication date, exact supporting passage in your own words, confidence, contradictions, and what remains unknown. Distinguish official fact, reported observation, inference, and anecdote.
+
+Expected output
+Claim matrix followed by a short evidence-bounded answer.
+
+Checks
+- Every claim has a source or is labeled inference.
+- Dates are recorded.
+- Conflicts are not silently resolved.

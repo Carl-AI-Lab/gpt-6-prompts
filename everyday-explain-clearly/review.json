@@ -1,0 +1,13 @@
+{
+  "reviewedAt": "2026-09-07T08:34:03.962134+00:00",
+  "reviewer": "Independent root review of frozen input and first response",
+  "findings": [
+    "Independent calculation gives (10\u00d74 + 30\u00d78) / 40 = 7. The equal-group boundary example correctly gives 6.",
+    "The explanation defines the weight and distinguishes a mean from individual scores and spread."
+  ],
+  "revisions": [
+    "No correction needed for the supplied numbers."
+  ],
+  "firstOutputPreserved": true,
+  "editorRevision": false
+}
